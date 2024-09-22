@@ -1,2 +1,4 @@
+# Jazmine Legall
+# 09/22/2024
 # P1HW2
-Create a program that calculates and displays travel expenses
+# create a program that calculates and displays travel expenses
