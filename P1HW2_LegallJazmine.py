@@ -14,7 +14,7 @@ travel = input('Enter your travel destination: ')
 # Ask user for amount they will spend on gas
 gas = int(input('How much do you think you will spend on gas? '))
 # Ask user for amount they will spend on accommodation
-accom = int(input('Approximately, how much will you need for accomodation/hotel? '))
+accom = int(input('Approximately, how much will you need for accommodation/hotel? '))
 # Ask user for amount they will spend on food
 food = int(input('Last, how much do you need for food? '))
 # Add expenses
@@ -29,7 +29,7 @@ print('Location:', travel)
 print('Initial Budget:', budget)
 print()
 print('Fuel:', gas)
-print('Accomodation:', accom)
+print('Accommodation:', accom)
 print('Food:', food)
 print()
 print('Remaining Balance:', balance)
